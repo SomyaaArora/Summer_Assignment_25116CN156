@@ -1,4 +1,4 @@
-// To print the sum of the digits of a number
+// To print the product of the digits of a number
 #include<bits/stdc++.h>
 using namespace std;
 int main()
