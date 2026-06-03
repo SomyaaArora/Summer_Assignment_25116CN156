@@ -1,0 +1,1 @@
+Enter two numbers 60 is the lcm of 12 and 15
