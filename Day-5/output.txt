@@ -1,0 +1,2 @@
+Enter the number 
+3 is the largest prime number of 6
