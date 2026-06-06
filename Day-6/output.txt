@@ -1,0 +1,3 @@
+Enter the number 
+ Enter the power 
+ 4^2 is 16
