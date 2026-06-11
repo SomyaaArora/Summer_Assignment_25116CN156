@@ -1,0 +1,2 @@
+Enter the number to find the factorial of 
+ Factorial of 7is 5040
