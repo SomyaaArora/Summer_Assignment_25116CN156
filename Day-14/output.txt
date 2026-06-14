@@ -1,0 +1,3 @@
+Enter the size of an array   
+ Enter the element to be search 
+Element not found
