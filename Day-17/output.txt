@@ -1,0 +1,3 @@
+Enter the size of first array 
+ Enter the size of second array 
+ 1 2 2 4 
