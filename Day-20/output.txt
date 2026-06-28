@@ -1,0 +1,4 @@
+Enter the number of rows and columns of the matrices
+ Sum of column 1 is 4
+Sum of column 2 is 6
+
