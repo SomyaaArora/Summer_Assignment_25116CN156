@@ -1,0 +1,17 @@
+--------QUIZ APPLICATION----------
+Q1: What is the capital of India?
+1.Mumbai
+2.Delhi
+3.Chennai
+4.Kolkata
+Q2:How many days are there in a week
+1.4
+2.8
+3.3
+4.7
+Q3:Who is the prime minister of india
+1.Narendra Modi
+2.Rajnath Singh
+3.Amit Shah
+4.Yogi Adityanath
+Your Score = 3
