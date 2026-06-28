@@ -1,0 +1,3 @@
+Enter the size of an array   
+ Odd number in an array is 6
+ Even number in  an array is 4
