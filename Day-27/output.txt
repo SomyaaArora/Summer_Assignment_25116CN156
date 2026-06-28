@@ -1,0 +1,11 @@
+Enter roll number
+Enter Student Name
+Enter marks in subject 1
+Enter marks in subject 2
+Enter marks in subject 3
+--------Marksheet----------
+1
+somya
+Total marks=228
+Percentage =76
+Result : Pass
