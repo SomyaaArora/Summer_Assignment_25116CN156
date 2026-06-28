@@ -1,0 +1,3 @@
+Enter the string
+ Maximum occuring character is : l
+Frequency of the character is : 6
