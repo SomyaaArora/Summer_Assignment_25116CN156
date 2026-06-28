@@ -1,0 +1,9 @@
+Enter the number of words
+Enter 6 words
+Words by length  are : 
+pari
+somya
+aryan
+ishant
+anushka
+harshit
