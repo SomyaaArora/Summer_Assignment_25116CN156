@@ -1,0 +1,2 @@
+Enter the size of an array 
+ 1 5 3 2 6 
