@@ -1,0 +1,4 @@
+Enter the number of rows and columns of the matrices
+ Transpose of the matrix is : 
+2 2 
+2 2 
