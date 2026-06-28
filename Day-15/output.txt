@@ -1,0 +1,3 @@
+Enter the size of an array   
+ The final array is : 
+13500
